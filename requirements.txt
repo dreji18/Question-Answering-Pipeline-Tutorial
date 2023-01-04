@@ -1,0 +1,7 @@
+wikipedia==1.4.0
+rake-nltk==1.0.4
+torch==1.13.1
+transformers==4.23.1
+rank-bm25==0.2.2
+fastapi==0.79.1	
+
