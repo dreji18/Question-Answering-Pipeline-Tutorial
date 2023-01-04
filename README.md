@@ -1,4 +1,4 @@
-# Question-Answering-Pipeline-Tutorial-
+# Question-Answering-Pipeline
 A step-by-step guide that explains how to build a system that is capable of answering questions based on a given dataset.
 
 Tutorial Link: https://youtu.be/eosgj7sZT14
